@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T19:42:10 EDT" name="Default suite" finished-at="2024-09-03T19:43:12 EDT" duration-ms="62688">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T19:42:10 EDT" name="Default test" finished-at="2024-09-03T19:43:12 EDT" duration-ms="62688">
+      <class name="com.testscenarios.AutoTesting_Login">
+        <test-method signature="test()[pri:0, instance:com.testscenarios.AutoTesting_Login@459e9125]" started-at="2024-09-03T19:42:10 EDT" name="test" finished-at="2024-09-03T19:43:12 EDT" duration-ms="62588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.testscenarios.AutoTesting_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
