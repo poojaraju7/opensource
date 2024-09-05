@@ -13,6 +13,8 @@ public class CommonFunctions {
 	public Locators loc = new Locators();
 	public WebDriver driver;
 	public Properties prop;
+	
+	
 	public void chromeBrowserLaunch() {
 //		WebDriverManager.chromedriver().browserVersion("85").setup();
 		driver = new ChromeDriver();
