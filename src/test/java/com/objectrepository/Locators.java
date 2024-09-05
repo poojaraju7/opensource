@@ -21,7 +21,7 @@ public class Locators {
 	public final By shop = By.xpath("//*[@id=\"menu-item-40\"]/a");
 	public final By addcart = By.xpath("//*[@id=\"content\"]/ul/li[2]/a[2]");
 	public final By cart = By.xpath("//*[@id=\"wpmenucartli\"]/a/span[1]");
-	
+	public final By proceedcheckout = By.xpath("//*[@id=\"page-34\"]/div/div[1]/div/div/div/a");
 	
 
 }

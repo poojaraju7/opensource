@@ -13,9 +13,10 @@ import com.objectrepository.Locators;
 public class AutoTesting_Login {
 	
 	Locators loc = new Locators();
+	
+	
     @Test
 	public void test() throws Exception {
-		// TODO Auto-generated method stub
 		WebDriver driver = new ChromeDriver();
 		FileInputStream filepath = new FileInputStream("/Users/thejusnambyaarr/eclipse-workspace/opensourcedemo/src/test/resources/testdata/Automationtesting.properties ");
 		Properties prop = new Properties();
